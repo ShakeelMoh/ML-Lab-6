@@ -1,0 +1,33 @@
+LAB 6 ANSWERS
+
+Forward Pass:
+
+Hidden Node Outputs: 
+	Node 1: 0.5
+	Node 2: 0.731059
+
+Outputs:
+	y1: 0.622459
+	y2: 0.557509
+
+Error for output nodes:
+	Node 1: 0.0887235
+	Node 2: -0.137533
+
+New weights hidden to output:
+	w11: 1.04436
+	w12: 0.064862
+	w21: -1.06877
+	w22: 0.899455
+
+Hidden Node errors:
+	Node 1: 0.0565642
+	Node 2: -0.270407
+
+New weights input to hidden:
+	v11: -1
+	v12: 0.0565642
+	v21: 0
+	v22: 0.972959
+
+
